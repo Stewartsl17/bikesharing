@@ -35,3 +35,6 @@ The purpose of this project was to guage whether bringing a bike rental service,
 In order to guage whether we could bring a similar rental service to Des Moines, IA, we utilized Citibike data from NYC to look at different factors worth considering for our project. This includes gender breakdowns, peak hours of service, checkout times for users, and understanding the differences between different usertypes. Based on our results, we can see that men dominate the usage overall and even in the same peak of hours used, men are far more frequently using bikes. Moreover, we can see that what will be needed is targeted marketing at both the casual consumer level. 
 
 Besides the visualizations shown above, I would consider looking into the distance people are covering in the peak rides. This may aid in other aspects of marketing to residents in Des Moines. I would also look into longitude and lattitude data to suggest where the best places to put out bike for residents. This may be helpful even though the two cities are so different.
+
+To see these visualizations on Tableau, use the following link
+[https://public.tableau.com/profile/shaun.stewart8125#!/vizhome/Citibike_Challenge_16030484553500/NYCBikeStory?publish=yes](https://public.tableau.com/profile/shaun.stewart8125#!/vizhome/Citibike_Challenge_16030484553500/NYCBikeStory?publish=yes)  
