@@ -6,7 +6,7 @@ The purpose of this project was to gauge whether bringing a bike rental service,
 ## Results 
 1. After importing the data into Tableau, we first had to look into the overall usage of Citibike in NYC. When counted, the total amount of NYC rides in August was 2,344,224. 
 
-![Number of Rides]()
+![](https://github.com/Stewartsl17/bikesharing/blob/main/images/Number_of_Rides.png)
 
 2. Based on the overall sample size of the data file, we then took a look at the general gender breakdown of the data. We found that the majority of bike riders that were using Citibike were men (65%) compared to a quarter that were women. 
 
